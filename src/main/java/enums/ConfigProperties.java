@@ -1,0 +1,19 @@
+package enums;
+
+public enum ConfigProperties {
+    URL,
+    BROWSER,
+    OVERRIDEREPORTS,
+    PASSEDSTEPSSCREENSHOT,
+    FAILEDSTEPSSCREENSHOT,
+    SKIPPEDSTEPSSCREENSHOT,
+    RETRYFAILEDTESTS,
+    RUNMODE,
+    DB_USER,
+    DB_PASSWORD,
+    DB_URL,
+    SID,
+    DRIVER
+
+
+}

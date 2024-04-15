@@ -1,0 +1,22 @@
+
+Q
+java:S1700"Rename field "driver"(ëÇ×J$9a4b9180-f9d4-46df-9a53-63e2e1995dfe
+]
+java:S1116"Remove this empty statement.(¦ë…™üÿÿÿÿJ$ed605019-b966-4743-b428-27549896b198
+w	java:S125"<This block of commented-out lines of code should be removed.(×‡å™J$a6248b15-4b31-4063-b706-e792c07b3b20
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8èî¨é1J$98e9e7fa-a42e-47a7-aea1-f52b16608e9d
+‹
+java:S1128"HRemove this unused import 'exceptions.BrowserInvocationFailedException'.(¤ÖÂæ8Á‚Ìòê1J$fc354ed4-328c-4d18-a9d2-4919669e1a0a
+|
+java:S1128"4Remove this unused import 'factories.DriverFactory'.(ÄÄ‰ÿÿÿÿÿ8Â‚Ìòê1J$8b9deff6-9ae1-49b8-b13c-fdf0691e9a88
+‰
+java:S1128"FRemove this unused import 'io.github.bonigarcia.wdm.WebDriverManager'.(°Ëõ‰8Â‚Ìòê1J$cd405b70-575c-4691-be0b-b5ca61cfc865
+
+java:S1128
+"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ8Â‚Ìòê1J$d18875c8-4f9c-43e5-9205-9ff066f9295f
+‡
+java:S1128"DRemove this unused import 'org.openqa.selenium.safari.SafariDriver'.(®úòî8Â‚Ìòê1J$f52fe9f9-c77b-4469-aeb7-8c53bad6e4ae
+~
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8Â‚Ìòê1J$c8d30842-bb6a-4ced-921b-8665cad3f643
+f
+java:S1068"*Remove this unused "driver" private field.(ëÇ×J$f01593a9-2e01-4237-9bcf-69e929748719

@@ -1,0 +1,18 @@
+
+
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(©ŸŞ½üÿÿÿÿ8¡ä÷ê1J$7046a2e4-fbff-4e51-a0f8-30d08c039fed
+x
+java:S1444"0Make this "public static connection" field final(©ŸŞ½üÿÿÿÿ8¡ä÷ê1J$3101fd92-4789-44f1-bb89-5540cf5c0d8d
+§
+java:S2259*"_A "NullPointerException" could be thrown; "SQLDBVerification_DBConnect_Main()" can return null.(¶Ô…ğÿÿÿÿÿ8·ä÷ê1J$80d2e8d5-0f56-45b6-9140-de7965891bb7
+‚
+java:S1118	":Add a private constructor to hide the implicit public one.(˜Şó»ıÿÿÿÿ8¹ä÷ê1J$fad5ad2e-ae57-41f8-8b27-cc3008735dbc
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶šÒº8ºä÷ê1J$f2580ce3-ee97-43eb-bf20-db1e5bd6b0f0
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¶šÒº8ºä÷ê1J$5a613985-4a87-4ba8-83c3-4db06e53d4a2
+v
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ÆÏŠğ8»ä÷ê1J$6bd7e46f-8efa-4881-87cc-58f0546efb0f
+	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨«€ˆ8»ä÷ê1J$cbe446a9-6126-41c2-8f9f-3f4860ead5d8
+	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿôõş8—é ÷ê1J$70ac71f6-6418-4ab9-b973-7acbff0aef90
+p
+java:S1068"-Remove this unused "resultSet" private field.(’©ü‰8¼ä÷ê1J$031b8ce3-58d0-4a6d-a80d-34a54d2ceb5a

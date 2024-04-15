@@ -1,0 +1,7 @@
+
+“
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿJ$b3e2a1a0-d387-4246-9562-a483e88ac10d
+m
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿJ$fd3e9c19-3a49-4422-bc31-8b4631b2ca24
+]
+java:S1116"Remove this empty statement.(•»ºıÿÿÿÿJ$6bee4dc3-4646-4b75-85b3-1964f85cebea
